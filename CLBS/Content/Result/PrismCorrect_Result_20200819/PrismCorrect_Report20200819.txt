@@ -1,0 +1,6 @@
+Prism Collection Report: 8/19/2020 9:35:10 AM
+Duplicate Product: 0204821912
+No standard data support:
+1234556789 :  Addition 0.02 not match!! : 
+0204824361 : Base 2.25  not match!! 
+***Please validate your product data***
